@@ -1,16 +1,14 @@
-carota mosca-della-carota
+carote mosca-della-carota
 
 -----CONSIGLI PER LA CURA DELLA PIANTA-----
 
-- Seminare poco per evitare il diradamento delle piantine. Le femmine delle mosche della carota,
+- Seminare poco per evitare il diradamento delle piantine. Le femmine delle mosche della carota, che cercano opportunita' di deposizione delle uova, sono attratte dall'odore che si sprigiona quando le piante in eccesso vengono rimosse.
 
-che cercano opportunita' di deposizione delle uova, sono attratte dall'odore 
+- Le carote seminate tardive (dopo la meta' di maggio) evitano la prima generazione di questo parassita; 
 
-che si sprigiona quando le piante in eccesso vengono rimosse.
+  analogamente le carote raccolte prima della fine di agosto evitano la seconda generazione.
 
-- Le carote seminate tardive (dopo la meta' di maggio) evitano la prima generazione di questo parassita; analogamente le carote raccolte prima della fine di agosto evitano la seconda generazione.
-
-- Proteggere le colture vulnerabili coprendo le piante con reti a prova di insetti. E' essenziale praticare la rotazione delle colture con questo metodo, altrimenti le mosche della carota adulte possono emergere all'interno della coltura protetta da pupe svernate nel terreno.
+- Proteggere le colture vulnerabili coprendo le piante con reti a prova di insetti. E' essenziale praticare la rotazione delle colture con questo metodo, altrimenti le mosche della carota   adulte possono emergere all'interno della coltura protetta da pupe svernate nel terreno.
 
 - Scegliere di coltivare carote meno suscettibili alla mosca della carota.
 
@@ -18,7 +16,7 @@ che si sprigiona quando le piante in eccesso vengono rimosse.
 
 FINEGRUPPO
 
-carota afidi
+carote afidi
 
 -----CONSIGLI PER LA CURA DELLA PIANTA-----
 
@@ -28,7 +26,7 @@ carota afidi
 
 - Uso sel piretro, insetticida biologico da usare in caso estremo,
 
-carota carote-a-forcella
+carote carote-a-forcella
 
 -----CONSIGLI PER LA CURA DELLA PIANTA-----
 
@@ -38,7 +36,7 @@ carota carote-a-forcella
 
 FINEGRUPPO
 
-patata peronospora
+patate peronospora-della-patata
 
 -----CONSIGLI PER LA CURA DELLA PIANTA-----
 
@@ -56,7 +54,7 @@ patata peronospora
 
 FINEGRUPPO
 
-patata gamba-nera-della-patata
+patate gamba-nera-della-patata
 
 -----CONSIGLI PER LA CURA DELLA PIANTA-----
 
@@ -64,11 +62,13 @@ patata gamba-nera-della-patata
 
 - La malattia si riduce di tre volte in condizioni calde e umide, fornisci piu' acqua nei punti piu' secchi. 
 
-- La rotazione delle colture e' importante, poiché i batteri possono sopravvivere durante l'inverno in terreni dove prima si coltivavano le patate, anche se ad un livello basso. La rotazione riduce anche il rischio di infezione derivante dalle patate volontarie infette.
+- La rotazione delle colture e' importante, poiché i batteri possono sopravvivere durante l'inverno in terreni dove prima si coltivavano le patate, 
+
+  anche se ad un livello basso. La rotazione riduce anche il rischio di infezione derivante dalle patate volontarie infette.
 
 FINEGRUPPO
 
-patata scabbia-della-patata
+patate scabbia-della-patata
 
 -----CONSIGLI PER LA CURA DELLA PIANTA-----
 
@@ -78,7 +78,7 @@ patata scabbia-della-patata
 
 FINEGRUPPO
 
-patata marciume-della-patata
+patate marciume-della-patata
 
 -----CONSIGLI PER LA CURA DELLA PIANTA-----
 
