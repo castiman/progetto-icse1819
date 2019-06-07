@@ -1,0 +1,11 @@
+carota
+mosca-della-carota "La tua carota sembra soffrire della Mosca delle carote: la mosca delle carote e' una piccola mosca dal corpo nero le cui larve si nutrono delle radici delle carote. Le larve penetrano nelle carote in via di sviluppo facendole marcire."
+afidi "La tua carota sembra soffrire di Afidi: puoi trovare colonie di mosche verdi sulle punte morbide delle piante o sulle foglie. Aspirano la linfa ed espellono la melata appiccicosa, favorendo la crescita di muffe fuligginose nere."
+carota-a-forcella "La tua carota sembra soffrire di Carota a Forcella: quando tiri su le carote, le radici non sono diritte, ma possono avere una o due forchette"
+FINEGRUPPO
+patata
+peronospora "La tua patata sembra soffrire di Peronospora: Questa e' una malattia comune nelle estati calde e umide. I sintomi iniziali sono un marciume bruno acquoso a rapida diffusione, che colpisce foglie e fusti. Anche i tuberi possono essere colpiti e presentano un marciume bruno-rossastro sotto la pelle, che all'inizio si rassoda, ma presto si trasforma in un marciume morbido."
+gamba-nera-della-patata "e' una comune malattia batterica delle patate, che causa marciume nero alla base dello stelo. Le infezioni iniziali causano una crescita arrestata e l'ingiallimento degli steli."
+gamba-nera-della-patata "La tua patata sembra soffrire di gamba nera della patata: e' una comune malattia batterica delle patate, che causa marciume nero alla base dello stelo. Le infezioni iniziali causano una crescita arrestata e l'ingiallimento degli steli."
+scabbia-della-patata "La tua patata sembra soffrire di scabbia della patata: Questa malattia provoca lesioni simili a croste in rilievo sulla superficie della patata. Non altera il sapore della patata e si rimuove facilmente al momento della pelatura."
+marciume-della-patata "La tua patata sembra soffrire di marciume secco: il marciume secco e' un inconveniente che si manifesta anche dopo il raccolto. Funghi appartenenti al genere Fusarium provocano un marciume del tubero, visto che le spore sopravvivono anche nei locali di stoccaggio."

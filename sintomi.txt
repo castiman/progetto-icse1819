@@ -1,0 +1,37 @@
+FINEGRUPPO
+carota mosca-della-carota
+sapore-odore-malsano "La carota presenta un sapore e un odore malsano e marciscono facilmente? (si/no) " 0.4
+larve-giallo-crema "Quando le radici vengono tagliate, ci sono delle gallerie spesso abitate da sottili vermi giallo-crema? (si/no) " 0.5
+FINEGRUPPO
+carota afidi
+foglie-giovani "Ad occhio nudo riesci ad osservare colonie di insetti sulle punte dei germogli, i boccioli di fiori o sulla parte interna delle foglie piu' giovani? (si/no) " 0.5
+foglie-distorte "La crescita della pianta sembra rachitica con foglie arricciate o distorte? (si/no) " 0.4
+melata-appiccicosa "La pianta presenta una melata appiccicosa su cui possono svilupparsi muffe nere da fuliggine? (si/no) " 0.4
+pelli-bianche "Sulla superficie superiore delle foglie si possono osservare accumuli di pelli bianche? (si/no) " 0.3
+FINEGRUPPO
+carota carota-a-forcella
+forma-strana "La carota presenta una forma strana, biforcata in parte? (si/no) " 0.8
+FINEGRUPPO
+patata peronospora-della-patata
+marciume-acquoso-delle-foglie "Le foglie cadono, si raggrinziscono e diventano scure, presentando una sorta di marciume acquoso? (si/no) " 0.6
+lesione-marroni-steli "Gli steli presentanodelle lesioni marroni? (si/no) " 0.4
+decadimento-bruno-rossastro "La patata presenta una specie di marciume di color bruno-rossastro sotto la buccia? (si/no) " 0.4
+FINEGRUPPO
+patata gamba-nera-della-patata
+steli-colore-giallo "Lo stelo della pianta appare di colore verde pallido o giallo? (si/no) " 0.3
+foglie-arricciate "Le foglie dello stelo interessato presentano margini arricciati verso l'interno? (si/no) " 0.4
+stelo-marcio "A livello del suolo, lo stelo colpito si presenta di colore nero e marcio? (si/no) " 0.5
+interno-grigio-marrone "La patata e' grigia o marrone al suo interno? (si/no) " 0.6
+FINEGRUPPO
+patata scabbia-della-patata
+scabbia-comune "Ci sono dei pezzi di buccia molto ruvida sulla superficie della patata? (si/no) " 0.5
+spore-bruno-polverose "Ci sono aree irregolari, brune e rialzate che contengono all'interno una sorta di polvere marrone? (si/no) " 0.7
+FINEGRUPPO
+patata marciume-della-patata
+patata-maleodorante "La patata in questione ha una sorta di marciume morbido e maleodorante? (si/no) " 0.4
+stelo-nero "La patata presenta sullo stelo una buona parte di colore nero? (si/no) " 0.6
+foglie-gialle "Le foglie alla base dello stelo sono appassite o di un colore giallognolo? (si/no) " 0.4
+
+
+
+
