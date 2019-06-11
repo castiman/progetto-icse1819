@@ -30,3 +30,22 @@ patate marciume-della-patata
 patata-maleodorante "La patata in questione ha una sorta di marciume morbido e maleodorante? (si/no) " 0.4
 stelo-nero "La patata presenta sullo stelo una buona parte di colore nero? (si/no) " 0.6
 foglie-gialle "Le foglie alla base dello stelo sono appassite o di un colore giallognolo? (si/no) " 0.4
+FINEGRUPPO
+cavoli peronospora-del-cavolo
+foglie-gialle-irregolari "La pianta ha macchie gialle irregolari sulle foglie? (si/no)? " 0.5
+foglie-crescita-grigio-soffice "La pianta ha una crescita grigio soffice sul lato inferiore delle foglie? (si/no)? " 0.6
+FINEGRUPPO
+cavoli ruggine-bianca
+pustole-bianche "La pianta ha pustole bianche sulle foglie, steli o fiori? (si/no)?  " 0.6
+foglie-arrotolate-addensate "Hanno le foglie della pianta arrotolate e addensate? (si/no)? " 0.4
+FINEGRUPPO
+cavoli chiocciole-e-lumache
+fori-forma-irregolare-foglie-steli "Le piante hanno fori di forma irregolare nelle foglie e nei fusti? (si/no)? " 0.4
+tracce-limo "Ci sono tracce di limo sulla pianta e sul terreno circostante? (si/no)? " 0.6
+foglie-sminuzzate "Le piante hanno foglie sminuzzate? (si/no)? " 0.4
+FINEGRUPPO
+cavoli cavolaia
+buchi-rotti "Le piante hanno buchi irregolari nelle foglie in prossimita' della testa? (si/no)? " 0.4
+escrementi "Le piante hanno feci verde-marrone sulle foglie? (si/no)? " 0.4
+bruco-verde-peloso "Presenza di un bruco verde e peloso? (si/no)? " 0.6
+FINEGRUPPO
